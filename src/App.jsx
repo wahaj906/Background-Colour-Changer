@@ -24,7 +24,7 @@ function App() {
            onClick={() => setBgColor('bg-green-500 duration-100')}
            >Green</button>
          </div>
-         <div className="text-center text-white mt-4">Created by Chintamani Pala</div>
+         <div className="text-center text-white mt-4">Created by Wahaj Ali</div>
        </div>
     </>
   )
